@@ -13,3 +13,8 @@ with col2:
     Hi, I am Mahmudur. A Junior Full Stack Developer with a keen interest in Muay Thai Boxing and BJJ. I am transitioning from a successful career in tech recruitment to software development due to my interest in problem-solving, need for continuous learning, and passion to build innovative projects.
     """
     st.info(content)
+
+content2 = """
+Below are some apps I have built using Python. Please feel free to contact me about them!
+"""
+st.write(content2)
