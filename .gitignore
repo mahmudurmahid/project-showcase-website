@@ -1,0 +1,12 @@
+# Ignore virtual env
+venv
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS junk
+.DS_Store
+
+# IDE settings
+.vscode/
